@@ -1,0 +1,113 @@
+{
+  "basic_info": {
+    "description_header": "你好！👋欢迎来到我的个人主页",
+    "description": "我是李贞烨，现居住在麦迪逊。我是一名威斯康辛麦迪逊大学的研究生。这个网站是我用来展示个人项目和加强我的编程能力的 📚。我现在正在寻求一份软件工程师的工作 👩🏻‍💻。如果任何有问题欢迎来联系我！😊",
+    "section_name": {
+      "about": "关于我",
+      "projects": "个人项目",
+      "skills": "技术栈",
+      "experience": "个人经历"
+    }
+  },
+  "projects": [
+    {
+      "title": "智能食谱",
+      "startDate": "2020",
+      "description": "一个用来提供以图搜食材和搜索食谱的手机软件。运用机器学习技术提供高效的食材以图搜索功能以节省用户使用时间，方便用户生活。",
+      "images": [
+        "images/lazycook/lazycook1.png",
+        "images/lazycook/lazycook2.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-django-plain",
+          "name": "Django"
+        },
+        {
+          "class": "devicon-postgresql-plain",
+          "name": "PostgreSQL"
+        }
+      ]
+    },
+    {
+      "title": "在线问卷",
+      "startDate": "2021",
+      "description": "一个给创业者提供发送在线问卷的平台。用户可以通过提供用户邮箱的方式来向大众发送在线问卷调查，并提供调查结果以供进行数据分析。",
+      "images": ["images/survey/survey1.png", "images/survey/survey2.png"],
+      "url": "https://github.com/ZhenyeLee/FeedBack-Collection-app",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        }
+      ]
+    },
+    {
+      "title": "网络课堂",
+      "startDate": "2021",
+      "description": "一个为用户提供教学视频的网站。用户可以在线听课，也可以上传各类教学视频且网站管理员可以管理教师信息和全部视频内容。",
+      "images": [
+        "images/courseonline/courseonline1.png",
+        "images/courseonline/courseonline1.png"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-spring-plain",
+          "name": "Spring"
+        },
+        {
+          "class": "devicon-vuejs-plain",
+          "name": "Vue.js"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "MySQL"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "机器学习与信号处理",
+      "title": "威斯康辛大学麦迪逊",
+      "years": "09.2020 - 至今",
+      "mainTech": ["研究生"],
+      "technologies": [
+        "REST API",
+        "RxJS",
+        "JavaScript",
+        "Bootstrap",
+        "MDBootstrap",
+        "EF Core",
+        "Angular Material"
+      ]
+    },
+    {
+      "company": "计算机工程",
+      "title": "奥克兰大学",
+      "years": "09.2016 - 05.2020",
+      "mainTech": ["本科生"],
+      "technologies": [
+        "REST API",
+        "RxJS",
+        "Swagger",
+        "JavaScript",
+        "DHTMLX Gantt"
+      ]
+    }
+  ]
+}

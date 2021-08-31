@@ -1,0 +1,109 @@
+{
+  "basic_info": {
+    "description_header": "Hello!👋 Welcome to my website",
+    "description": "My name is Zhenye Li and I live in Madison. I'm a graduate student from University of Wisconsin-Madison. I am looking for a full time software developer jobs 👩🏻‍💻. This website has been created to show my projects and improve my programming skills 📚.Feel free to connect with me! 😊",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Education"
+    }
+  },
+  "projects": [
+    {
+      "title": "Lazy Cook",
+      "startDate": "2020",
+      "description": "A one-stop platform that allows users to browse recipes for different types of food based on their available ingredients as well as nutrition requirements. ",
+      "images": [
+        "images/lazycook/lazycook1.png",
+        "images/lazycook/lazycook2.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-django-plain",
+          "name": "Django"
+        },
+        {
+          "class": "devicon-postgresql-plain",
+          "name": "PostgreSQL"
+        }
+      ]
+    },
+    {
+      "title": "Emaily",
+      "startDate": "2021",
+      "description": "Personal project for study subject.A feedback collection application for startup owner that can be used to send emails to a big list of users for the purpose of collecting feedback for data analytics",
+      "images": ["images/survey/survey1.png", "images/survey/survey2.png"],
+      "url": "https://github.com/ZhenyeLee/FeedBack-Collection-app",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        }
+      ]
+    },
+    {
+      "title": "Online Classroom",
+      "startDate": "2021",
+      "description": "An online course system to allow admit managing updated course and teacher informant and provided a platform for normal user to enroll courses.",
+      "images": [
+        "images/courseonline/courseonline1.png",
+        "images/courseonline/courseonline1.png"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-spring-plain",
+          "name": "Spring"
+        },
+        {
+          "class": "devicon-vuejs-plain",
+          "name": "Vue.js"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "MySQL"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Machine Learning and Signal Processing",
+      "title": "University of Wisconsin-Madison",
+      "years": "09.2020 - present",
+      "mainTech": ["Master"],
+      "technologies": [
+        "REST API",
+        "RxJS",
+        "JavaScript",
+        "Bootstrap",
+        "MDBootstrap",
+        "EF Core",
+        ".NET Core",
+        "SignalR",
+        "Angular Material"
+      ]
+    },
+    {
+      "company": "Computer Engineering",
+      "title": "Oakland University",
+      "years": "09.2016 - 05.2020",
+      "mainTech": ["Bachelor"],
+      "technologies": ["RxJS", "Django", "PHP", "JavaScript", "DHTMLX Gantt"]
+    }
+  ]
+}
