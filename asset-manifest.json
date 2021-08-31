@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/PersonalWebsite/static/css/main.392e0d74.chunk.css",
-    "main.js": "/PersonalWebsite/static/js/main.e8627ea3.chunk.js",
-    "main.js.map": "/PersonalWebsite/static/js/main.e8627ea3.chunk.js.map",
-    "runtime-main.js": "/PersonalWebsite/static/js/runtime-main.1bd2416d.js",
-    "runtime-main.js.map": "/PersonalWebsite/static/js/runtime-main.1bd2416d.js.map",
-    "static/css/2.197054c9.chunk.css": "/PersonalWebsite/static/css/2.197054c9.chunk.css",
-    "static/js/2.1aa7835a.chunk.js": "/PersonalWebsite/static/js/2.1aa7835a.chunk.js",
-    "static/js/2.1aa7835a.chunk.js.map": "/PersonalWebsite/static/js/2.1aa7835a.chunk.js.map",
-    "index.html": "/PersonalWebsite/index.html",
-    "static/css/2.197054c9.chunk.css.map": "/PersonalWebsite/static/css/2.197054c9.chunk.css.map",
-    "static/css/main.392e0d74.chunk.css.map": "/PersonalWebsite/static/css/main.392e0d74.chunk.css.map",
-    "static/js/2.1aa7835a.chunk.js.LICENSE.txt": "/PersonalWebsite/static/js/2.1aa7835a.chunk.js.LICENSE.txt"
+    "main.css": "/ZhenyeLee.github.io/static/css/main.392e0d74.chunk.css",
+    "main.js": "/ZhenyeLee.github.io/static/js/main.8b8ca0ca.chunk.js",
+    "main.js.map": "/ZhenyeLee.github.io/static/js/main.8b8ca0ca.chunk.js.map",
+    "runtime-main.js": "/ZhenyeLee.github.io/static/js/runtime-main.517a6530.js",
+    "runtime-main.js.map": "/ZhenyeLee.github.io/static/js/runtime-main.517a6530.js.map",
+    "static/css/2.197054c9.chunk.css": "/ZhenyeLee.github.io/static/css/2.197054c9.chunk.css",
+    "static/js/2.1aa7835a.chunk.js": "/ZhenyeLee.github.io/static/js/2.1aa7835a.chunk.js",
+    "static/js/2.1aa7835a.chunk.js.map": "/ZhenyeLee.github.io/static/js/2.1aa7835a.chunk.js.map",
+    "index.html": "/ZhenyeLee.github.io/index.html",
+    "static/css/2.197054c9.chunk.css.map": "/ZhenyeLee.github.io/static/css/2.197054c9.chunk.css.map",
+    "static/css/main.392e0d74.chunk.css.map": "/ZhenyeLee.github.io/static/css/main.392e0d74.chunk.css.map",
+    "static/js/2.1aa7835a.chunk.js.LICENSE.txt": "/ZhenyeLee.github.io/static/js/2.1aa7835a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1bd2416d.js",
+    "static/js/runtime-main.517a6530.js",
     "static/css/2.197054c9.chunk.css",
     "static/js/2.1aa7835a.chunk.js",
     "static/css/main.392e0d74.chunk.css",
-    "static/js/main.e8627ea3.chunk.js"
+    "static/js/main.8b8ca0ca.chunk.js"
   ]
 }
