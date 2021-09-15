@@ -1,4 +1,4 @@
-<h1>Zhenye Li website</h1>
+<h1>Zhenye Li Website</h1>
 <img text-align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/react.svg" height="50" alt="react icon"/>
 
 Check my website at <a href="https://zhenyelee.github.io/PersonalWebsite/">ZhenyeLi.com</a>.
