@@ -37,7 +37,6 @@ This project is the source code of my personal developer portfolio.
 
 - [x] ~~Add responsive nav bar~~
 
-- [x] ~~Add a Hobbies section~~
 
 
 
